@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/Alexaandrepaiva">
-  <img height="180em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark&count_private=true"/>
 </div>
 <div>
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
