@@ -3,7 +3,7 @@
   <img height="150em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
   <img height="150em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark&count_private=true"/>
 </div>
-<div>
+<div style="diplay: inline-block"><br>
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
