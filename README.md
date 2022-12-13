@@ -1,8 +1,13 @@
-<div>
-  <a href="https://github.com/Alexaandrepaiva">
-  <img height="150em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="150em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark&count_private=true"/>
-</div>
+# 💬 About me
+🙋🏻‍♂️ My name is Alexandre de Paiva Almeida, I'm 23 years old and from Taubaté/SP, Brazil <br>
+⚙️ I'm an computer engineering student at Instituto Militar de Engenharia working with performance and acceleration of programming languages in my scientific research <br>
+💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br>
+👔 Also, I am president of IME Júnior and a software development consultant <br>
+🧑🏻‍💻 Programming enthusiast <br>
+
+# Personal skills
+
+## Front-end
 <div style="diplay: inline-block"><br>
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -11,12 +16,44 @@
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+</div>
+
+## Back-end
+<div style="diplay: inline-block"><br>
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
+
+## Libraries 
+<div style="diplay: inline-block"><br>
+  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png">
+
+</div>
+
+## Other
+<div style="diplay: inline-block"><br>
+  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Alexaandre-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+</div>
+
+# Stats
+<div>
+  <a href="https://github.com/Alexaandrepaiva">
+  <img height="150em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="150em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark&count_private=true"/>
+</div>
+
+# Social 
+
+
+
+
+
+
 
             
           
