@@ -5,6 +5,11 @@
 👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br>
 🧑🏻‍💻 Programming enthusiast <br>
 
+<div  align="center">
+
+<img align="left" height="350" alt="coding-time" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+
+<div align="right">
 # ✨ Personal skills
 
 ## Front-end
@@ -41,6 +46,9 @@
   <img align="center" alt="Alexaandre-js" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
+</div>
+
+</div>
 
 <!-- # Stats
 <div>
