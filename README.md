@@ -3,12 +3,9 @@
   ⚙️ I'm an computer engineering student at <strong>Instituto Militar de Engenharia</strong> working with performance and acceleration of programming languages in my scientific research <br><br>
   💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br><br>
   👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br><br>
-  🧑🏻‍💻 Programming enthusiast <br>
-
-<div  align="center">
+  🧑🏻‍💻 Programming enthusiast <br><br>
   
 # ✨ Personal skills
-
 ##  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -42,7 +39,6 @@
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
-</div>
 
 <!-- # Stats
 <div>
