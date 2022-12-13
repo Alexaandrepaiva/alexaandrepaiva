@@ -5,7 +5,7 @@
 👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br>
 🧑🏻‍💻 Programming enthusiast <br>
 
-# Personal skills
+# ✨ Personal skills
 
 ## Front-end
 <div style="diplay: inline-block"><br>
