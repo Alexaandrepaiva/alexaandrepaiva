@@ -1,15 +1,9 @@
 # 💬 About me
-<div style="text-align:center; display: flex; flex-direction:row; gap: 10em; height: 350em">
-  <img align="left" height="300" alt="coding-time" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-  <div style="height: 350em">
-    <br>
-    🙋🏻‍♂️ My name is <strong>Alexandre de Paiva Almeida</strong>, I'm 23 years old and from Taubaté/SP, Brazil <br><br>
-    ⚙️ I'm an computer engineering student at <strong>Instituto Militar de Engenharia</strong> working with performance and acceleration of programming languages in my scientific research <br><br>
-    💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br><br>
-    👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br><br>
-    🧑🏻‍💻 Programming enthusiast <br>
-  </div>
-</div>
+  🙋🏻‍♂️ My name is <strong>Alexandre de Paiva Almeida</strong>, I'm 23 years old and from Taubaté/SP, Brazil <br><br>
+  ⚙️ I'm an computer engineering student at <strong>Instituto Militar de Engenharia</strong> working with performance and acceleration of programming languages in my scientific research <br><br>
+  💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br><br>
+  👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br><br>
+  🧑🏻‍💻 Programming enthusiast <br>
 
 <div  align="center">
   
