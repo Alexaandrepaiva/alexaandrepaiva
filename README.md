@@ -1,8 +1,8 @@
 # 💬 About me
-🙋🏻‍♂️ My name is Alexandre de Paiva Almeida, I'm 23 years old and from Taubaté/SP, Brazil <br>
-⚙️ I'm an computer engineering student at Instituto Militar de Engenharia working with performance and acceleration of programming languages in my scientific research <br>
+🙋🏻‍♂️ My name is <strong>Alexandre de Paiva Almeida</strong>, I'm 23 years old and from Taubaté/SP, Brazil <br>
+⚙️ I'm an computer engineering student at <strong>Instituto Militar de Engenharia</strong> working with performance and acceleration of programming languages in my scientific research <br>
 💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br>
-👔 Also, I am president of IME Júnior and a software development consultant <br>
+👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br>
 🧑🏻‍💻 Programming enthusiast <br>
 
 # Personal skills
