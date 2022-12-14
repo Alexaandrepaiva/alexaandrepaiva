@@ -6,6 +6,7 @@
   🧑🏻‍💻 Programming enthusiast <br><br>
   
 # ✨ Personal skills
+  
 ##  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -38,7 +39,6 @@
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
-
 
 <!-- # Stats
 <div>
