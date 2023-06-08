@@ -1,8 +1,8 @@
 # 💬 About me
-  🙋🏻‍♂️ My name is <strong>Alexandre de Paiva Almeida</strong>, I'm 23 years old and from Taubaté/SP, Brazil <br><br>
+  🙋🏻‍♂️ My name is <strong>Alexandre de Paiva Almeida</strong>, I'm 24 years old and from Taubaté/SP, Brazil <br><br>
   ⚙️ I'm an computer engineering student at <strong>Instituto Militar de Engenharia</strong> working with performance and acceleration of programming languages in my scientific research <br><br>
-  💻 Currently, I am working with performance and acceleration of programming languages in my scientific research <br><br>
-  👔 Also, I am president of <storng>IME Júnior</storng> and a software development consultant <br><br>
+  💻 Currently, I am working as Fullstack developer at <strong>TutorMundi</strong> and I am also studying about performance and acceleration of programming languages in my scientific research<br><br>
+  👔 Also, I am the <storng>IME Júnior CEO</storng> and a software development consultant <br><br>
   🧑🏻‍💻 Programming enthusiast <br><br>
   
 # ✨ Personal skills
@@ -15,11 +15,13 @@
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+<img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 </div>
 
 ## Back-end
 <div style="diplay: inline-block"><br>
+<img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Alexaandre-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
