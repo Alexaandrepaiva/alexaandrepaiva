@@ -4,8 +4,7 @@
 - 🙋🏻‍♂️ My name is <strong>Alexandre Paiva</strong>
 - 🏫 Computer engineering student at <strong>Instituto Militar de Engenharia</strong>
 - 📖 <strong>Scientific research</strong> on performance and acceleration of programming languages.
-- 👨‍💻 Fullstack developer at <strong>TutorMundi</strong>
-- 👔 <storng>IME Júnior CEO</storng>
+- 👨‍💻 Fullstack developer and Product Manager Associate at <strong>TutorMundi</strong>
   
 ## 💻 Programming skills 
 <p>
