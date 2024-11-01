@@ -1,9 +1,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hi there, welcome to my Github!
 
-- 🙋🏻‍♂️ My name is <strong>Alexandre Paiva</strong>
-- 🏫 Computer engineering student at <strong>Instituto Militar de Engenharia</strong>
-- 📖 <strong>Scientific research</strong> on performance and acceleration of programming languages.
-- 👨‍💻 Fullstack developer and Product Manager Associate at <strong>TutorMundi</strong>
+🙋🏻‍♂️ My name is <strong>Alexandre Paiva</strong>
+
+🏫 Computer engineering student at <strong>Instituto Militar de Engenharia</strong>
+
+👨‍💻 Fullstack developer
+
+:memo: Product Manager 
   
 ## 💻 Skills
 
