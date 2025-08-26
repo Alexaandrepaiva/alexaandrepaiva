@@ -6,8 +6,11 @@
 
 👨‍💻 Fullstack developer
 
-:memo: Product Manager 
-  
+:memo: Product Manager 
+
+
+-------
+  
 ## 💻 Skills
 
 ### Front-end
@@ -72,24 +75,9 @@
 	<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
+## ✨ Recent Activity
 ## ☎️ Contact me
 <p>
 	<a href="https://www.linkedin.com/in/paiva240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.instagram.com/alexaandrepaiva/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
-<!-- # Stats
-<div>
-  <a href="https://github.com/Alexaandrepaiva">
-  <img height="150em" src="http://github-readme-stats.vercel.app/api?username=alexaandrepaiva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="150em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=alexaandrepaiva&layout=compact&langs_count=16&theme=chartreuse-dark&count_private=true"/>
-</div> -->
-
-
-
-
-
-
-
-
-            
-          
